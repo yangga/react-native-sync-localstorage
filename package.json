@@ -1,6 +1,6 @@
 {
   "name": "react-native-sync-localstorage",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "None async local storage",
   "main": "localStorage.js",
   "scripts": {
