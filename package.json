@@ -1,5 +1,5 @@
 {
-  "name": "react-native-local-storage",
+  "name": "react-native-sync-localstorage",
   "version": "0.0.1",
   "description": "None async local storage",
   "main": "localStorage.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yangga/react-native-local-storage.git"
+    "url": "git+https://github.com/yangga/react-native-sync-localstorage.git"
   },
   "keywords": [
     "react",
@@ -20,7 +20,7 @@
   "author": "https://github.com/yangga",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yangga/react-native-local-storage/issues"
+    "url": "https://github.com/yangga/react-native-sync-localstorage/issues"
   },
-  "homepage": "https://github.com/yangga/react-native-local-storage#readme"
+  "homepage": "https://github.com/yangga/react-native-sync-localstorage#readme"
 }
