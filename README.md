@@ -7,7 +7,7 @@ None async local storage
 ## [Usage]
 
 ### 1. Loading stored values at beginnig
-    import localStorage from 'react-native-localstorage'
+    import localStorage from 'react-native-sync-localstorage'
 
     ...
 
