@@ -2,6 +2,7 @@
 None async local storage
 
 ## [Installation]
+    npm install --save react-native-sync-localstorage
 
 ## [Usage]
 
